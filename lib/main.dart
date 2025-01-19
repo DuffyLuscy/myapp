@@ -45,7 +45,7 @@ class HomePage extends StatelessWidget {
                   border: Border.all(color: Colors.blue),
                 ),
                 child: Text(
-                  'Este é um exemplo simples de layout responsivo em Flutter para a web. Publique este app no GitHub Pages para compartilhá-lo com o mundo!',
+                  'Este é um exemplo simples de layout responsivo em Flutter para a web',
                   style: TextStyle(fontSize: 16),
                   textAlign: TextAlign.center,
                 ),
@@ -76,4 +76,3 @@ class HomePage extends StatelessWidget {
     );
   }
 }
-
